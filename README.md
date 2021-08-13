@@ -1,4 +1,8 @@
-# jengalproject
+# Jengal Frontend Project
+
+Live: https://jengal.web.app
+
+Search Algorithm
 
 ## Project setup
 ```
